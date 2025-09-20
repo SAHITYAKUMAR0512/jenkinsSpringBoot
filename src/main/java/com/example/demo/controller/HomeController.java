@@ -10,7 +10,7 @@ public class HomeController {
 	@GetMapping("/get")
 	public String get()
 	{
-		return "hello";
+		return "hello success";
 	}
 
 }
